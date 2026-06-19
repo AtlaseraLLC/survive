@@ -106,7 +106,7 @@ Assets/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/AtlaseraLtd/survive.git
+   git clone https://github.com/AtlaseraLLC/survive.git
    ```
 
 2. Open **Unity Hub**
