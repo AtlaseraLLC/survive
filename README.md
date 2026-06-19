@@ -184,7 +184,7 @@ More enemy types coming soon.
 
 ## 📄 License
 
-This project is proprietary and owned by **Atlasera Ltd**. All rights reserved.
+This project is proprietary and owned by **Atlasera, LLC**. All rights reserved.
 
 ---
 
