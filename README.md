@@ -31,7 +31,7 @@
 - Zombie AI with detection, chase, and attack behaviour
 - Dynamic zombie wave spawning system
 - Friend NPC rescue system
-- Health, ammo, survival timer, and friends HUD
+- Health, survival timer, and friends HUD
 - Main Menu, Game Over, Loading Screen, and Victory scenes
 - Post-apocalyptic street environment with procedural segment generation
 
@@ -158,8 +158,8 @@ More enemy types coming soon.
 | Name | Location |
 |------|---------|
 | Alex | Early street — X: 50 |
-| Sara | Mid street — X: 120 |
-| Mike | Deep street — X: 220 |
+| Sara | End street — X: 350 |
+| Mike | End street — X: 350 |
 | Jake | End street — X: 350 |
 
 ---
