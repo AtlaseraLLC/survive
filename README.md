@@ -190,5 +190,5 @@ This project is proprietary and owned by **Atlasera, LLC**. All rights reserved.
 
 ## 👨‍💻 Developed By
 
-**Atlasera Ltd**
+**Atlasera, LLC**
 [github.com/AtlaseraLLC](https://github.com/AtlaseraLLC)
