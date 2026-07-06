@@ -125,8 +125,8 @@ Assets/
 
 | Action | Key |
 |--------|-----|
-| Move | `WASD` / Arrow Keys |
-| Jump | `Space` |
+| Move | Arrow Keys |
+| Jump |  |
 | Melee Attack | `Left Click` / `Fire1` |
 | Ranged Attack | `Right Click` / `Fire2` |
 
