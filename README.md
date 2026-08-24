@@ -149,8 +149,6 @@ Assets/
 |-------|--------|-------|--------|
 | Zombie | 50 | 1.8 | 10 |
 
-More enemy types coming soon.
-
 ---
 
 ## 👥 Friends to Rescue
