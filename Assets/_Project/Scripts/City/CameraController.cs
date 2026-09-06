@@ -18,7 +18,7 @@ public class CameraController : MonoBehaviour
 
     void LateUpdate()
     {
-        if (player == null) return;
+        if (player == null) return; //Player not found
 
         float targetX = player.position.x + offset.x;
         float targetY = Mathf.Clamp(player.position.y + offset.y, minY, maxY);
